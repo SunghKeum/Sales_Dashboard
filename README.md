@@ -6,7 +6,7 @@ The objective for developing this Tableau dashboard is to provide to key stakeho
 
 <h2>📑 Description</h2>
 
-In this project, I built an interactive sales dashboard that allows key stakeholders to view trends of various retail metrics and make a year over year comparison. The built-in controls allow for selecting a year and setting sales target for performance analysis. The dashboard also displays sales by product categories and membership type, as well as top five suppliers manufacturing goods for the company. With just a click, key stakeholders can view details of customer orders and key insights gathered from the data. You can view the data [here](https://www.kaggle.com/datasets/gabrielsantello/wholesale-and-retail-orders-dataset).
+In this project, I built an interactive sales dashboard that allows key stakeholders to view trends of various retail metrics and make a year over year comparison. The built-in controls allow for selecting a year and setting sales target for performance analysis. The dashboard also displays sales by product categories and membership type, as well as top five suppliers manufacturing goods for the company. With just a click, key stakeholders can view details of customer orders and key insights gathered from the data. You can view the data used for this project [here](https://www.kaggle.com/datasets/gabrielsantello/wholesale-and-retail-orders-dataset).
 
 <h2>💡 Key Findings</h2>
 
