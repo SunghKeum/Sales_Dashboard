@@ -20,4 +20,6 @@ In this project, I built an interactive sales dashboard that allows key stakehol
 
 Take me to the [Dashboard](https://public.tableau.com/app/profile/sung.keum/viz/CustomerOrderAnalysis_17044704343470/OverviewDashboard).
 
-- <a href='/' target="_blank">Data</a> is a csv file containing raw data about airbnb listings in Seattle.
+<p align="center">
+  <img width="1200" height="600" src="/Dashboard.png">
+</p>
